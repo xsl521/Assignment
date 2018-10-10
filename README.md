@@ -10,3 +10,5 @@ There are two versions with both of Prj02 and Prj04
 Prj04:       https://github.com/xsl521/Assignment/blob/master/Prj04.ipynb
 
 Prj04-1:     https://github.com/xsl521/Assignment/blob/master/Prj04-1.py
+
+Prj02:       https://github.com/xsl521/Assignment/blob/master/prj02.ipynb
