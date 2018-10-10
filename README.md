@@ -14,6 +14,8 @@ Prj04:       https://github.com/xsl521/Assignment/blob/master/Prj04.ipynb
 
 # Only Codes:
 
+Prj01-1:     https://github.com/xsl521/Assignment/blob/master/Prj01-1.py
+
 Prj02-1:     https://github.com/xsl521/Assignment/blob/master/Prj02-1.py
 
 Prj04-1:     https://github.com/xsl521/Assignment/blob/master/Prj04-1.py
