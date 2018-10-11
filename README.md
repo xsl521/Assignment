@@ -1,8 +1,8 @@
 # Assignment
 
-There are two versions with both of Prj02 and Prj04
+There are two versions of both Prj02 and Prj04
 
- if you want to see code with running results, please click on Prj**
+ if you want to see codes with running results, please click on Prj**
  
  if you want to see only codes, please click on PRJ**-1
  
